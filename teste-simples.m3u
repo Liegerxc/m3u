@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Teste",Big Buck Bunny
+http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+#EXTINF:-1 tvg-name="Sintel" group-title="Teste",Sintel
+http://sample.vodobox.com/planete_interdite/planete_interdite_alternate.m3u8
